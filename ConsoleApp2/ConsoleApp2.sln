@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{66735A35-34E2-4B30-AABE-48EE456AAE68}"
+	ProjectSection(ProjectDependencies) = postProject
+		{13E79F16-AB61-42A4-AB7B-F90E695FED23} = {13E79F16-AB61-42A4-AB7B-F90E695FED23}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFService1", "WCFService1\", "{13E79F16-AB61-42A4-AB7B-F90E695FED23}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{eda250b7-f733-4b67-a69a-e34772ab731f}|Serialator.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57241"
+		Debug.AspNetCompiler.PhysicalPath = "WCFService1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57241\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57241"
+		Release.AspNetCompiler.PhysicalPath = "WCFService1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57241\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57241"
+		SlnRelativePath = "WCFService1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialator", "Serialator\Serialator.csproj", "{EDA250B7-F733-4B67-A69A-E34772AB731F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubricaForm", "RubricaForm\RubricaForm.csproj", "{225A1AAE-E375-4B6C-B6CC-B9E8CA6DB368}"
+	ProjectSection(ProjectDependencies) = postProject
+		{13E79F16-AB61-42A4-AB7B-F90E695FED23} = {13E79F16-AB61-42A4-AB7B-F90E695FED23}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66735A35-34E2-4B30-AABE-48EE456AAE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66735A35-34E2-4B30-AABE-48EE456AAE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66735A35-34E2-4B30-AABE-48EE456AAE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66735A35-34E2-4B30-AABE-48EE456AAE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E79F16-AB61-42A4-AB7B-F90E695FED23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E79F16-AB61-42A4-AB7B-F90E695FED23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E79F16-AB61-42A4-AB7B-F90E695FED23}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E79F16-AB61-42A4-AB7B-F90E695FED23}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{EDA250B7-F733-4B67-A69A-E34772AB731F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA250B7-F733-4B67-A69A-E34772AB731F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA250B7-F733-4B67-A69A-E34772AB731F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA250B7-F733-4B67-A69A-E34772AB731F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225A1AAE-E375-4B6C-B6CC-B9E8CA6DB368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225A1AAE-E375-4B6C-B6CC-B9E8CA6DB368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225A1AAE-E375-4B6C-B6CC-B9E8CA6DB368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225A1AAE-E375-4B6C-B6CC-B9E8CA6DB368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B4E0337-5325-43DE-BE8F-3419EE674D7C}
+	EndGlobalSection
+EndGlobal

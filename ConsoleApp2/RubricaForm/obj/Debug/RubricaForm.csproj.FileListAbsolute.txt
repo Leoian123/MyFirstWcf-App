@@ -1,0 +1,10 @@
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\bin\Debug\RubricaForm.exe.config
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\bin\Debug\RubricaForm.exe
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\bin\Debug\RubricaForm.pdb
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\obj\Debug\RubricaForm.csproj.AssemblyReference.cache
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\obj\Debug\RubricaForm.Form1.resources
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\obj\Debug\RubricaForm.Properties.Resources.resources
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\obj\Debug\RubricaForm.csproj.GenerateResource.cache
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\obj\Debug\RubricaForm.csproj.CoreCompileInputs.cache
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\obj\Debug\RubricaForm.exe
+C:\Users\Orazio\source\repos\ConsoleApp2\RubricaForm\obj\Debug\RubricaForm.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="wcfModelStoreContainer" CdmEntityContainer="wcfEntities1">
+    <EntitySetMapping Name="contatto">
+      <EntityTypeMapping TypeName="wcfModel.contatto">
+        <MappingFragment StoreEntitySet="contatto">
+          <ScalarProperty Name="birthday" ColumnName="birthday" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="cognome" ColumnName="cognome" />
+          <ScalarProperty Name="numberPhone" ColumnName="numberPhone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="persona">
+      <EntityTypeMapping TypeName="wcfModel.persona">
+        <MappingFragment StoreEntitySet="persona">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="setting" ColumnName="setting" />
+          <ScalarProperty Name="cognome" ColumnName="cognome" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

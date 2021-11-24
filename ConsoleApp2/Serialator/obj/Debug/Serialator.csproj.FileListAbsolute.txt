@@ -1,0 +1,15 @@
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\Serialator.dll
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\Serialator.pdb
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\obj\Debug\Serialator.csproj.AssemblyReference.cache
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\obj\Debug\Serialator.csproj.CoreCompileInputs.cache
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\obj\Debug\Serialator.dll
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\obj\Debug\Serialator.pdb
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\Serialator.dll.config
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\EntityFramework.dll
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\EntityFramework.xml
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\it\EntityFramework.resources.dll
+C:\Users\Orazio\source\repos\ConsoleApp2\Serialator\bin\Debug\it\EntityFramework.SqlServer.resources.dll
